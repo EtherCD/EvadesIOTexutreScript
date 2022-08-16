@@ -101,3 +101,8 @@
   11. Orbite: `/orbit-ring.53e4adb3.png`
   12. Spring wreath: `/spring-wreath.490fbc9e.png`
   13. Santa Hat: `/santa-hat.8ff7f164.png`
+  14. Stars: `/stars.1958914c.png`
+  15. Sticky coat: `/sticky-coat.1412b8a0.png`
+  16. Summer wreath: `/summer-wreath.778ebaa8.png`
+  17. Toxic coat: `/toxic-coat.a27cd6c9.png`
+  18. Winter wreath: `/winter-wreath.07f00139.png`
