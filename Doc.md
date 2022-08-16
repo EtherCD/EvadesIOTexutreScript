@@ -5,9 +5,12 @@
  2. Rime:
   * Rime: Paralysis: `/paralysis.d560d509.png`
  3. Morfe:
+  * Morfe: 1: `/reverse.1be52566.png`
   * Morfe: 2: `/minimize.5d8af84b.png`
  4. Avrora:
  5. Necro:
+  * Necro: Reccurection: `/resurrection.5312ca48.png`
+  * Necro: Reanimate: `/reanimate.76894259.png`
  6. Brute:
  7. Nexus:
   * Nexus: Rarier: `/barrier.d51f24d5.png`
@@ -36,11 +39,13 @@
  18. Mirage:
   * Mirage: Obscure: `/obscure.7c4f8c87.png`
  19. BoldRock:
+  * BoldRock: Earthquake: `/earthquake.e60dbb49.png`
   * BoldRock: Crumble: `/crumble.52c64baf.png`
  20. Glob:
+  * Glob: Radioactive: `/radioactive_gloop.41d04536.png`
  21. Magno:
+  * Magno 1: `/repel.7c817cc6.png`
   * Magno 2: `/attract.28bb1ec5.png`
-  * BoldRock: Earthquake: `/earthquake.e60dbb49.png`
  22. Ignis:
  23. Stella:
  24. Viola:
