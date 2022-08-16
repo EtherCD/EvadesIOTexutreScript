@@ -74,10 +74,12 @@
   * Magnesium Down: `/magnetism_down.91b821d0.png`
   * Magnesium Up: `/magnetism_up.b3ce84ce.png`
   * Squire Square: `/snowball.39d1f0dc.png`
+  * ???: `/vengeance_projectile.e8ef217c.png`
  26. In Levls:
   1. BB:
    * Falsh Light: `/flashlight_item.f507a634.png`
    * Torch: `/torch.f4ec8651.png`
+   * Torch UpSide Down: `/torch_upside_down.06b1bf86.png`
   2. Asorted Alcove:
    * Pumkin off: `/pumpkin_off.bfce688c.png`
    * Pumkin off healing: `/pumpkin_off_healing.fb295f03.png`
@@ -85,3 +87,17 @@
    * Pumkin on healing: `/pumpkin_on_healing.43f79ee0.png`
   3. SS:
    * Snowball projectTile: `/snowball_projectile.9a1b5096.png`
+ 27. Hats:
+  1. Autom wreath: `/autumn-wreath.59c95666.png`
+  2. Blue Flame: `/blue-flames.3beec8e5.png`
+  3. Flames: `/flames.b3703c82.png`
+  4. Blue Santa: `/blue-santa-hat.9e42565d.png`
+  5. Bronze crown: `/bronze-crown.c9530af4.png`
+  6. Silver Crown: `/silver-crown.ffa388d3.png`
+  7. Gold Crown: `/gold-crown.131786e0.png`
+  8. Gold wreath: `/gold-wreath.92569ed3.png`
+  9. Halo: `/halo.cb0eb721.png`
+  10. Olimpick: `/olympics-wreath.a8b838b7.png`
+  11. Orbite: `/orbit-ring.53e4adb3.png`
+  12. Spring wreath: `/spring-wreath.490fbc9e.png`
+  13. Santa Hat: `/santa-hat.8ff7f164.png`
