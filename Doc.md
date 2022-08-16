@@ -9,4 +9,8 @@
  * Joult: charge1: `/charge.34944622.png`
  * BoldRock: Crumble: `/crumble.52c64baf.png`
  * Jotunn: Decay: `/decay.b84a5b9a.png`
- * 
+ * Reaper: Depart: `/depart.d6160ea9.png`
+ * BoldRock: Earthquake: `/earthquake.e60dbb49.png`
+ * Ignis: Embler: `/ember.4658ef22.png`
+ * Flash Light: `/flashlight.4ea7e78b.png`
+ * Magmax: Harden: `/harden.5bbbb359.png`
