@@ -48,6 +48,7 @@
  17. Candy:
   * Candy: Sugar Rush: `/sugar_rush.5fb693e6.png`
   * Candy: Sweet Tooth: `/sweet_tooth.010e08c1.png`
+  * Candy: Sweet Tooth Item: `/sweet_tooth_item.b2938c47.png`
  18. Mirage:
   * Mirage: Shift: `/shift.c90212c9.png`
   * Mirage: Obscure: `/obscure.7c4f8c87.png`
@@ -76,7 +77,11 @@
  26. In Levls:
   1. BB:
    * Falsh Light: `/flashlight_item.f507a634.png`
+   * Torch: `/torch.f4ec8651.png`
   2. Asorted Alcove:
    * Pumkin off: `/pumpkin_off.bfce688c.png`
    * Pumkin off healing: `/pumpkin_off_healing.fb295f03.png`
    * Pumkin on: `/pumpkin_on.5fe3afd5.png`
+   * Pumkin on healing: `/pumpkin_on_healing.43f79ee0.png`
+  3. SS:
+   * Snowball projectTile: `/snowball_projectile.9a1b5096.png`
