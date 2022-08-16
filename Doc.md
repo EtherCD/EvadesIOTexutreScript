@@ -73,3 +73,10 @@
   * Magnesium Down: `/magnetism_down.91b821d0.png`
   * Magnesium Up: `/magnetism_up.b3ce84ce.png`
   * Squire Square: `/snowball.39d1f0dc.png`
+ 26. In Levls:
+  1. BB:
+   * Falsh Light: `/flashlight_item.f507a634.png`
+  2. Asorted Alcove:
+   * Pumkin off: `/pumpkin_off.bfce688c.png`
+   * Pumkin off healing: `/pumpkin_off_healing.fb295f03.png`
+   * Pumkin on: `/pumpkin_on.5fe3afd5.png`
