@@ -21,6 +21,7 @@
   * Euclid: Black Hole: `/black_hole.c2eb364f.png`
  10. Chrono:
   * Chrono: Time: `/backtrack.8dfc78f2.png`
+  * Chrono: Rewind: `/rewind.be0e5198.png`
  11. Reaper:
   * Reaper Atonement: `/atonement.d8bf4c63.png`
   * Reaper: Depart: `/depart.d6160ea9.png`
@@ -30,13 +31,17 @@
  13. Jolt:
   * Joult: charge1: `/charge.34944622.png`
  14. Ghoul:
+  * Ghoul: Shriek: `/shriek.246cac7a.png`
+  * Ghoul: Shadow: `/shadow.bb40767f.png`
  15. Cent:
   * Cent: Fusion: `/fusion.4854fbec.png`
   * Cent: Mortar: `/mortar.264fb9f3.png`
  16. Jotun:
   * Jotunn: Decay: `/decay.b84a5b9a.png`
+  * Jotunn: Shatter: `/shatter.32a8da4c.png`
  17. Candy:
  18. Mirage:
+  * Mirage: Shift: `/shift.c90212c9.png`
   * Mirage: Obscure: `/obscure.7c4f8c87.png`
  19. BoldRock:
   * BoldRock: Earthquake: `/earthquake.e60dbb49.png`
@@ -55,3 +60,4 @@
   * Flash Light: `/flashlight.4ea7e78b.png`
   * Magnesium Down: `/magnetism_down.91b821d0.png`
   * Magnesium Up: `/magnetism_up.b3ce84ce.png`
+  * Squire Square: `/snowball.39d1f0dc.png`
