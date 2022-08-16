@@ -12,8 +12,10 @@
   * Necro: Reccurection: `/resurrection.5312ca48.png`
   * Necro: Reanimate: `/reanimate.76894259.png`
  6. Brute:
+  * Brute: Stomp: `/stomp.547173b8.png`
  7. Nexus:
   * Nexus: Rarier: `/barrier.d51f24d5.png`
+  * Nexus: Stream: `/stream.96c8fbe3.png`
  8. Shade:
   * Shade: Night: `/night.21e36d46.png`
  9. Euclid:
@@ -29,6 +31,7 @@
   * Rameses: 1: `/bandages.d74c7103.png`
   * Rameses: 2: `/latch.39f26b80.png`
  13. Jolt:
+  * Joult: Spark: `/spark.46259f2b.png`
   * Joult: charge1: `/charge.34944622.png`
  14. Ghoul:
   * Ghoul: Shriek: `/shriek.246cac7a.png`
@@ -40,6 +43,8 @@
   * Jotunn: Decay: `/decay.b84a5b9a.png`
   * Jotunn: Shatter: `/shatter.32a8da4c.png`
  17. Candy:
+  * Candy: Sugar Rush: `/sugar_rush.5fb693e6.png`
+  * Candy: Sweet Tooth: `/sweet_tooth.010e08c1.png`
  18. Mirage:
   * Mirage: Shift: `/shift.c90212c9.png`
   * Mirage: Obscure: `/obscure.7c4f8c87.png`
@@ -48,11 +53,13 @@
   * BoldRock: Crumble: `/crumble.52c64baf.png`
  20. Glob:
   * Glob: Radioactive: `/radioactive_gloop.41d04536.png`
+  * Glob: Sticky coat: `/sticky_coat.3ca854b2.png`
  21. Magno:
   * Magno 1: `/repel.7c817cc6.png`
   * Magno 2: `/attract.28bb1ec5.png`
  22. Ignis:
  23. Stella:
+  * Stella: SuperNova: `/supernova.c4691198.png`
  24. Viola:
   * Viola: Flovers: `/bloom.59ad82cb.png`
   * Viola: Pollinate: `/pollinate.cd341be7.png`
