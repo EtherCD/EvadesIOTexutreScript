@@ -3,6 +3,7 @@
   * Magmax: Harden: `/harden.5bbbb359.png`
   * Maxmax: Flow: `/flow.dae3149d.png`
  2. Rime:
+  * Rime: Warp: `/warp.d0ea3c82.png`
   * Rime: Paralysis: `/paralysis.d560d509.png`
  3. Morfe:
   * Morfe: 1: `/reverse.1be52566.png`
@@ -13,11 +14,13 @@
   * Necro: Reanimate: `/reanimate.76894259.png`
  6. Brute:
   * Brute: Stomp: `/stomp.547173b8.png`
+  * Brute: Vigor: `/vigor.ed07ac77.png`
  7. Nexus:
   * Nexus: Rarier: `/barrier.d51f24d5.png`
   * Nexus: Stream: `/stream.96c8fbe3.png`
  8. Shade:
   * Shade: Night: `/night.21e36d46.png`
+  * Shade: Vengeance: `/vengeance.427afbf7.png`
  9. Euclid:
   * Euclid: Orbit: `/orbit.41d0454f.png`
   * Euclid: Black Hole: `/black_hole.c2eb364f.png`
@@ -54,12 +57,14 @@
  20. Glob:
   * Glob: Radioactive: `/radioactive_gloop.41d04536.png`
   * Glob: Sticky coat: `/sticky_coat.3ca854b2.png`
- 21. Magno:
+ 21.Magno:
   * Magno 1: `/repel.7c817cc6.png`
   * Magno 2: `/attract.28bb1ec5.png`
- 22. Ignis:
+ 22.Ignis:
+  * Ignis: Wild Fire: `/wildfire.8a50fdd3.png`
  23. Stella:
   * Stella: SuperNova: `/supernova.c4691198.png`
+  * Stella: VimpHole: `/wormhole.0e70b14e.png`
  24. Viola:
   * Viola: Flovers: `/bloom.59ad82cb.png`
   * Viola: Pollinate: `/pollinate.cd341be7.png`
