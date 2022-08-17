@@ -9,6 +9,8 @@
   * Morfe: 1: `/reverse.1be52566.png`
   * Morfe: 2: `/minimize.5d8af84b.png`
  4. Avrora:
+  * Avrora: Distort: `/distort.4ec33f5b.png`
+  * Avrora: Energize: `/energize.ee05e0c7.png`
  5. Necro:
   * Necro: Reccurection: `/resurrection.5312ca48.png`
   * Necro: Reanimate: `/reanimate.76894259.png`
