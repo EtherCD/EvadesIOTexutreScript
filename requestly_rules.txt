@@ -1,5 +1,341 @@
 [
   {
+    "creationDate": 1660706958257,
+    "description": "",
+    "groupId": "",
+    "id": "Redirect_emnet",
+    "isSample": false,
+    "name": "Remeses 2",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "destination": "https://github.com/EtherCD/EvadesIOTexutreScript/blob/main/resources/rameses/latch.png?raw=true",
+        "source": {
+          "filters": [],
+          "key": "Url",
+          "operator": "Contains",
+          "value": "https://evades.io/latch.39f26b80.png"
+        },
+        "id": "xu7ij"
+      }
+    ],
+    "ruleType": "Redirect",
+    "status": "Active",
+    "createdBy": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "currentOwner": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "lastModifiedBy": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "modificationDate": 1660706984269,
+    "lastModified": 1660706984269
+  },
+  {
+    "creationDate": 1660706921290,
+    "description": "",
+    "groupId": "",
+    "id": "Redirect_4del3",
+    "isSample": false,
+    "name": "Remeses 1",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "destination": "https://github.com/EtherCD/EvadesIOTexutreScript/blob/main/resources/rameses/bandages.png?raw=true",
+        "source": {
+          "filters": [],
+          "key": "Url",
+          "operator": "Contains",
+          "value": "https://evades.io/bandages.d74c7103.png"
+        },
+        "id": "9nmjz"
+      }
+    ],
+    "ruleType": "Redirect",
+    "status": "Active",
+    "createdBy": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "currentOwner": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "lastModifiedBy": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "modificationDate": 1660706952548,
+    "lastModified": 1660706952548
+  },
+  {
+    "creationDate": 1660706890192,
+    "description": "",
+    "groupId": "",
+    "id": "Redirect_6ocyf",
+    "isSample": false,
+    "name": "Reaper 2",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "destination": "https://github.com/EtherCD/EvadesIOTexutreScript/blob/main/resources/reaper/depart.png?raw=true",
+        "source": {
+          "filters": [],
+          "key": "Url",
+          "operator": "Contains",
+          "value": "https://evades.io/depart.d6160ea9.png"
+        },
+        "id": "8z44u"
+      }
+    ],
+    "ruleType": "Redirect",
+    "status": "Active",
+    "createdBy": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "currentOwner": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "lastModifiedBy": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "modificationDate": 1660706914152,
+    "lastModified": 1660706914152
+  },
+  {
+    "creationDate": 1660706828274,
+    "description": "",
+    "groupId": "",
+    "id": "Redirect_yijtw",
+    "isSample": false,
+    "name": "Reaper 1",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "destination": "https://github.com/EtherCD/EvadesIOTexutreScript/blob/main/resources/reaper/atonement.png?raw=true",
+        "source": {
+          "filters": [],
+          "key": "Url",
+          "operator": "Contains",
+          "value": "https://evades.io/atonement.d8bf4c63.png"
+        },
+        "id": "vp77s"
+      }
+    ],
+    "ruleType": "Redirect",
+    "status": "Active",
+    "createdBy": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "currentOwner": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "lastModifiedBy": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "modificationDate": 1660706884006,
+    "lastModified": 1660706884006
+  },
+  {
+    "creationDate": 1660706797219,
+    "description": "",
+    "groupId": "",
+    "id": "Redirect_794yb",
+    "isSample": false,
+    "name": "Chrono 2",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "destination": "https://github.com/EtherCD/EvadesIOTexutreScript/blob/main/resources/chrono/rewind.png?raw=true",
+        "source": {
+          "filters": [],
+          "key": "Url",
+          "operator": "Contains",
+          "value": "https://evades.io/rewind.be0e5198.png"
+        },
+        "id": "fvqkx"
+      }
+    ],
+    "ruleType": "Redirect",
+    "status": "Active",
+    "createdBy": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "currentOwner": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "lastModifiedBy": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "modificationDate": 1660706821582,
+    "lastModified": 1660706821582
+  },
+  {
+    "creationDate": 1660706755442,
+    "description": "",
+    "groupId": "",
+    "id": "Redirect_q00m6",
+    "isSample": false,
+    "name": "Chrono 1",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "destination": "https://github.com/EtherCD/EvadesIOTexutreScript/blob/main/resources/chrono/backtrack.png?raw=true",
+        "source": {
+          "filters": [],
+          "key": "Url",
+          "operator": "Contains",
+          "value": "https://evades.io/backtrack.8dfc78f2.png"
+        },
+        "id": "d442r"
+      }
+    ],
+    "ruleType": "Redirect",
+    "status": "Active",
+    "createdBy": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "currentOwner": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "lastModifiedBy": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "modificationDate": 1660706792842,
+    "lastModified": 1660706792843
+  },
+  {
+    "creationDate": 1660701103895,
+    "description": "",
+    "groupId": "",
+    "id": "Redirect_jc1ll",
+    "isSample": false,
+    "name": "Euclid 2",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "destination": "https://github.com/EtherCD/EvadesIOTexutreScript/blob/main/resources/euclid/black_hole.png?raw=true",
+        "source": {
+          "filters": [],
+          "key": "Url",
+          "operator": "Contains",
+          "value": "https://evades.io/black_hole.c2eb364f.png"
+        },
+        "id": "tub98"
+      }
+    ],
+    "ruleType": "Redirect",
+    "status": "Active",
+    "createdBy": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "currentOwner": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "lastModifiedBy": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "modificationDate": 1660701122744,
+    "lastModified": 1660701122744
+  },
+  {
+    "creationDate": 1660701058909,
+    "description": "",
+    "groupId": "",
+    "id": "Redirect_plwdl",
+    "isSample": false,
+    "name": "Euclid 1",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "destination": "https://github.com/EtherCD/EvadesIOTexutreScript/blob/main/resources/euclid/orbit.png?raw=true",
+        "source": {
+          "filters": [],
+          "key": "Url",
+          "operator": "Contains",
+          "value": "https://evades.io/orbit.41d0454f.png"
+        },
+        "id": "mphqg"
+      }
+    ],
+    "ruleType": "Redirect",
+    "status": "Active",
+    "createdBy": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "currentOwner": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "lastModifiedBy": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "modificationDate": 1660701084550,
+    "lastModified": 1660701084550
+  },
+  {
+    "creationDate": 1660701026061,
+    "description": "",
+    "groupId": "",
+    "id": "Redirect_j9joq",
+    "isSample": false,
+    "name": "Shade 2",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "destination": "https://github.com/EtherCD/EvadesIOTexutreScript/blob/main/resources/shade/vengeance.png?raw=true",
+        "source": {
+          "filters": [],
+          "key": "Url",
+          "operator": "Contains",
+          "value": "https://evades.io/vengeance.427afbf7.png"
+        },
+        "id": "lseo5"
+      }
+    ],
+    "ruleType": "Redirect",
+    "status": "Active",
+    "createdBy": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "currentOwner": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "lastModifiedBy": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "modificationDate": 1660701053241,
+    "lastModified": 1660701053241
+  },
+  {
+    "creationDate": 1660700907832,
+    "description": "",
+    "groupId": "",
+    "id": "Redirect_go4s7",
+    "isSample": false,
+    "name": "Nexus 2",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "destination": "https://github.com/EtherCD/EvadesIOTexutreScript/blob/main/resources/nexus/stream.png?raw=true",
+        "source": {
+          "filters": [],
+          "key": "Url",
+          "operator": "Contains",
+          "value": "https://evades.io/stream.96c8fbe3.png"
+        },
+        "id": "7zxsm"
+      }
+    ],
+    "ruleType": "Redirect",
+    "status": "Active",
+    "createdBy": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "currentOwner": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "lastModifiedBy": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "modificationDate": 1660701019684,
+    "lastModified": 1660701019684
+  },
+  {
+    "creationDate": 1660700944475,
+    "description": "",
+    "groupId": "",
+    "id": "Redirect_guhak",
+    "isSample": false,
+    "name": "Shade 1",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "destination": "https://github.com/EtherCD/EvadesIOTexutreScript/blob/main/resources/shade/night.png?raw=true",
+        "source": {
+          "filters": [],
+          "key": "Url",
+          "operator": "Contains",
+          "value": "https://evades.io/night.21e36d46.png"
+        },
+        "id": "o06fy"
+      }
+    ],
+    "ruleType": "Redirect",
+    "status": "Active",
+    "createdBy": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "currentOwner": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "lastModifiedBy": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "modificationDate": 1660700993827,
+    "lastModified": 1660700993827
+  },
+  {
+    "creationDate": 1660700867141,
+    "description": "",
+    "groupId": "",
+    "id": "Redirect_2f34y",
+    "isSample": false,
+    "name": "Nexus 1",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "destination": "https://github.com/EtherCD/EvadesIOTexutreScript/blob/main/resources/nexus/barrier.png?raw=true",
+        "source": {
+          "filters": [],
+          "key": "Url",
+          "operator": "Contains",
+          "value": "https://evades.io/barrier.d51f24d5.png"
+        },
+        "id": "6z4qc"
+      }
+    ],
+    "ruleType": "Redirect",
+    "status": "Active",
+    "createdBy": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "currentOwner": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "lastModifiedBy": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "modificationDate": 1660700903737,
+    "lastModified": 1660700903738
+  },
+  {
     "creationDate": 1660698372096,
     "description": "",
     "groupId": "",
