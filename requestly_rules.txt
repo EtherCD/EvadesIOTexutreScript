@@ -1,0 +1,282 @@
+[
+  {
+    "creationDate": 1660698372096,
+    "description": "",
+    "groupId": "",
+    "id": "Redirect_i1vzx",
+    "isSample": false,
+    "name": "Brute 2",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "destination": "https://github.com/EtherCD/EvadesIOTexutreScript/blob/main/resources/brute/vigor.png?raw=true",
+        "source": {
+          "filters": [],
+          "key": "Url",
+          "operator": "Contains",
+          "value": "https://evades.io/vigor.ed07ac77.png"
+        },
+        "id": "8a4v8"
+      }
+    ],
+    "ruleType": "Redirect",
+    "status": "Active",
+    "createdBy": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "currentOwner": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "lastModifiedBy": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "modificationDate": 1660698396985,
+    "lastModified": 1660698396985
+  },
+  {
+    "creationDate": 1660698329896,
+    "description": "",
+    "groupId": "",
+    "id": "Redirect_6mv3n",
+    "isSample": false,
+    "name": "Brute 1",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "destination": "https://github.com/EtherCD/EvadesIOTexutreScript/blob/main/resources/brute/stomp.png?raw=true",
+        "source": {
+          "filters": [],
+          "key": "Url",
+          "operator": "Contains",
+          "value": "https://evades.io/stomp.547173b8.png"
+        },
+        "id": "vlkng"
+      }
+    ],
+    "ruleType": "Redirect",
+    "status": "Active",
+    "createdBy": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "currentOwner": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "lastModifiedBy": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "modificationDate": 1660698360924,
+    "lastModified": 1660698360924
+  },
+  {
+    "creationDate": 1660698293470,
+    "description": "",
+    "groupId": "",
+    "id": "Redirect_3q5rq",
+    "isSample": false,
+    "name": "Necro 2",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "destination": "https://github.com/EtherCD/EvadesIOTexutreScript/blob/main/resources/necro/reanimate.png?raw=true",
+        "source": {
+          "filters": [],
+          "key": "Url",
+          "operator": "Contains",
+          "value": "https://evades.io/reanimate.76894259.png"
+        },
+        "id": "uyvf8"
+      }
+    ],
+    "ruleType": "Redirect",
+    "status": "Active",
+    "createdBy": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "currentOwner": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "lastModifiedBy": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "modificationDate": 1660698321520,
+    "lastModified": 1660698321520
+  },
+  {
+    "creationDate": 1660698256716,
+    "description": "",
+    "groupId": "",
+    "id": "Redirect_54y9w",
+    "isSample": false,
+    "name": "Necro 1",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "destination": "https://github.com/EtherCD/EvadesIOTexutreScript/blob/main/resources/necro/resurrection.png?raw=true",
+        "source": {
+          "filters": [],
+          "key": "Url",
+          "operator": "Contains",
+          "value": "https://evades.io/resurrection.5312ca48.png"
+        },
+        "id": "7xlkd"
+      }
+    ],
+    "ruleType": "Redirect",
+    "status": "Active",
+    "createdBy": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "currentOwner": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "lastModifiedBy": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "modificationDate": 1660698286705,
+    "lastModified": 1660698286705
+  },
+  {
+    "creationDate": 1660698142998,
+    "description": "",
+    "groupId": "",
+    "id": "Redirect_1lkl1",
+    "isSample": false,
+    "name": "Magmax 2",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "destination": "https://github.com/EtherCD/EvadesIOTexutreScript/blob/main/resources/magmax/flow.png?raw=true",
+        "source": {
+          "filters": [],
+          "key": "Url",
+          "operator": "Contains",
+          "value": "https://evades.io/flow.dae3149d.png"
+        },
+        "id": "bf0m1"
+      }
+    ],
+    "ruleType": "Redirect",
+    "status": "Active",
+    "createdBy": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "currentOwner": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "lastModifiedBy": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "modificationDate": 1660698171374,
+    "lastModified": 1660698171374
+  },
+  {
+    "creationDate": 1660698107072,
+    "description": "",
+    "groupId": "",
+    "id": "Redirect_n3q2u",
+    "isSample": false,
+    "name": "Magmax 1",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "destination": "https://github.com/EtherCD/EvadesIOTexutreScript/blob/main/resources/magmax/harden.png?raw=true",
+        "source": {
+          "filters": [],
+          "key": "Url",
+          "operator": "Contains",
+          "value": "https://evades.io/harden.5bbbb359.png"
+        },
+        "id": "69s2o"
+      }
+    ],
+    "ruleType": "Redirect",
+    "status": "Active",
+    "createdBy": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "currentOwner": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "lastModifiedBy": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "modificationDate": 1660698134152,
+    "lastModified": 1660698134152
+  },
+  {
+    "creationDate": 1660698067103,
+    "description": "",
+    "groupId": "",
+    "id": "Redirect_db3z7",
+    "isSample": false,
+    "name": "Rime 2",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "destination": "https://github.com/EtherCD/EvadesIOTexutreScript/blob/main/resources/rime/paralysis.png?raw=true",
+        "source": {
+          "filters": [],
+          "key": "Url",
+          "operator": "Contains",
+          "value": "https://evades.io/paralysis.d560d509.png"
+        },
+        "id": "aia9f"
+      }
+    ],
+    "ruleType": "Redirect",
+    "status": "Active",
+    "createdBy": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "currentOwner": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "lastModifiedBy": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "modificationDate": 1660698099991,
+    "lastModified": 1660698099991
+  },
+  {
+    "creationDate": 1660697906492,
+    "description": "",
+    "groupId": "",
+    "id": "Redirect_3mqpf",
+    "isSample": false,
+    "name": "Rime 1",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "destination": "https://github.com/EtherCD/EvadesIOTexutreScript/blob/main/resources/rime/warp.png?raw=true",
+        "source": {
+          "filters": [],
+          "key": "Url",
+          "operator": "Contains",
+          "value": "https://evades.io/warp.d0ea3c82.png"
+        },
+        "id": "eu01d"
+      }
+    ],
+    "ruleType": "Redirect",
+    "status": "Active",
+    "createdBy": null,
+    "currentOwner": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "lastModifiedBy": null,
+    "modificationDate": 1660697936175,
+    "lastModified": 1660697936175
+  },
+  {
+    "creationDate": 1660697856718,
+    "description": "",
+    "groupId": "",
+    "id": "Redirect_yh29p",
+    "isSample": false,
+    "name": "Morfe 1",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "destination": "https://github.com/EtherCD/EvadesIOTexutreScript/blob/main/resources/morfe/reverse.png?raw=true",
+        "source": {
+          "filters": [],
+          "key": "Url",
+          "operator": "Contains",
+          "value": "https://evades.io/reverse.1be52566.png"
+        },
+        "id": "c96vo"
+      }
+    ],
+    "ruleType": "Redirect",
+    "status": "Active",
+    "createdBy": null,
+    "currentOwner": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "lastModifiedBy": null,
+    "modificationDate": 1660697889903,
+    "lastModified": 1660697889903
+  },
+  {
+    "creationDate": 1660697607210,
+    "description": "",
+    "groupId": "",
+    "id": "Redirect_ysst4",
+    "isSample": false,
+    "name": "Morfe 2",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "destination": "https://github.com/EtherCD/EvadesIOTexutreScript/blob/main/resources/morfe/minimize.png?raw=true",
+        "source": {
+          "filters": [],
+          "key": "Url",
+          "operator": "Contains",
+          "value": "https://evades.io/minimize.5d8af84b.png"
+        },
+        "id": "ss7ct"
+      }
+    ],
+    "ruleType": "Redirect",
+    "status": "Active",
+    "createdBy": null,
+    "currentOwner": "hStt5kYkayO8mPcVqzXBc6psA223",
+    "lastModifiedBy": null,
+    "modificationDate": 1660697813220,
+    "lastModified": 1660697813220
+  }
+]
